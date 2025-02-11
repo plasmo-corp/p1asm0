@@ -28,13 +28,13 @@
     "tsup": "8.3.6"
   },
   "dependencies": {
-    "@mischnic/json-sourcemap": "0.1.0",
-    "@parcel/core": "2.9.3",
-    "@parcel/diagnostic": "2.9.3",
-    "@parcel/fs": "2.9.3",
-    "@parcel/plugin": "2.9.3",
-    "@parcel/types": "2.9.3",
-    "@parcel/utils": "2.9.3",
+    "@mischnic/json-sourcemap": "0.1.1",
+    "@parcel/core": "2.11.0",
+    "@parcel/diagnostic": "2.11.0",
+    "@parcel/fs": "2.11.0",
+    "@parcel/plugin": "2.11.0",
+    "@parcel/types": "2.11.0",
+    "@parcel/utils": "2.11.0",
     "content-security-policy-parser": "0.4.1",
     "json-schema-to-ts": "3.1.1",
     "nullthrows": "1.1.1"

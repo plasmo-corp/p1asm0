@@ -135,9 +135,9 @@
     "rimraf": "6.0.1",
     "ts-jest": "29.1.1",
     "tsup": "8.3.6",
-    "typescript": "5.2.2"
+    "typescript": "5.3.3"
   },
   "dependencies": {
-    "nanoid": "5.0.3"
+    "nanoid": "5.0.4"
   }
 }

@@ -34,25 +34,30 @@
     "overrides": {
       "@parcel/source-map": "2.1.1",
       "react-refresh": "0.14.0"
-    }
+    },
+    "patchedDependencies": {
+      "@parcel/bundler-default@2.10.2": "patches/@parcel__bundler-default@2.10.2.patch",
+      "@parcel/core@2.10.2": "patches/@parcel__core@2.10.2.patch"
+    },
+    "allowNonAppliedPatches": true
   },
   "devDependencies": {
     "@ianvs/prettier-plugin-sort-imports": "4.1.1",
     "@plasmohq/rps": "workspace:*",
     "@types/fs-extra": "11.0.4",
     "@types/inquirer": "9.0.7",
-    "@types/node": "20.9.0",
+    "@types/node": "20.11.5",
     "@types/node-rsa": "1.1.4",
     "@types/react": "19.0.8",
     "@types/react-dom": "19.0.3",
     "@types/semver": "7.5.5",
     "@types/uuid": "10.0.0",
-    "@types/ws": "8.5.9",
-    "esbuild": "0.19.5",
-    "eslint": "8.53.0",
+    "@types/ws": "8.5.10",
+    "esbuild": "0.19.11",
+    "eslint": "8.56.0",
     "eslint-config-prettier": "9.0.0",
     "eslint-plugin-react": "7.33.2",
-    "fs-extra": "11.1.1",
+    "fs-extra": "11.2.0",
     "prettier": "3.2.4",
     "tsup": "8.3.6",
     "turbo": "2.4.0"

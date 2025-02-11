@@ -1,6 +1,6 @@
 {
   "name": "@plasmohq/parcel-transformer-inline-css",
-  "version": "0.3.11",
+  "version": "0.4.0",
   "description": "Plasmo Parcel Transformer for inline CSS",
   "files": [
     "dist"
@@ -26,10 +26,10 @@
     "tsup": "8.3.6"
   },
   "dependencies": {
-    "@parcel/core": "2.9.3",
-    "@parcel/plugin": "2.9.3",
-    "@parcel/utils": "2.9.3",
-    "browserslist": "4.22.1",
-    "lightningcss": "1.21.8"
+    "@parcel/core": "2.11.0",
+    "@parcel/plugin": "2.11.0",
+    "@parcel/utils": "2.11.0",
+    "browserslist": "4.22.2",
+    "lightningcss": "1.23.0"
   }
 }
